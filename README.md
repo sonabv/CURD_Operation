@@ -2,25 +2,25 @@ This project is built using Java, JDBC, Servlet and JSP as backend and HTML, CSS
 
 SYSTEM REQUIREMENTS
 
-Eclipse Enterprise Edition
-Apache Tomcat Server
-Mysql Server
+1.Eclipse Enterprise Edition
+2.Apache Tomcat Server
+3.Mysql Server
 
 STEPS TO CREATE DATABASE
 
-Open mvc.sql
-Execute the queries in your mysql.
+1.Open mvc.sql
+2.Execute the queries in your mysql.
 
 STEPS TO IMPORT PROJECT INTO ECLIPSE
 
-Import the CURD_Operation directory into the eclipse workspace.
-Traverse from /CURD_Operation/src/main/java/Model/Registration.java
-Here in line number 17 and 18, provide your mysql username and password.
+1.Import the CURD_Operation directory into the eclipse workspace.
+2.Traverse from /CURD_Operation/src/main/java/Model/Registration.java
+3.Here in line number 17 and 18, provide your mysql username and password.
 
 STEPS TO RUN THE PROJECT
 
-Right click on the project.
-Select Run As..
-Select Run On Server.
-On the pop up window select the server and click on finish.
-The project will run on the browser.
+1.Right click on the project.
+2.Select Run As..
+3.Select Run On Server.
+4.On the pop up window select the server and click on finish.
+5.The project will run on the browser.
