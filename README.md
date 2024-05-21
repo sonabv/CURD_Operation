@@ -29,5 +29,7 @@ STEPS TO RUN THE PROJECT
 2.Select Run As..
 
 3.Select Run On Server.
+
 4.On the pop up window select the server and click on finish.
+
 5.The project will run on the browser.
