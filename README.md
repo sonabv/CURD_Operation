@@ -3,7 +3,9 @@ This project is built using Java, JDBC, Servlet and JSP as backend and HTML, CSS
 SYSTEM REQUIREMENTS
 
 1.Eclipse Enterprise Edition
+
 2.Apache Tomcat Server
+
 3.Mysql Server
 
 STEPS TO CREATE DATABASE
